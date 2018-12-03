@@ -1,3 +1,6 @@
+# 주요 서적
+1. Programming ERLANG: Software for a Concurrent World 2nd edition
+
 # 참고 서적
 1. Programming ERLANG: Software for a Concurrent World 2nd edition
 2. Learn You Some Erlang for Great Good!
